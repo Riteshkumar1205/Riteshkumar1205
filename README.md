@@ -12,8 +12,8 @@
 
 # Ritesh Kumar
 
-**Cybersecurity & Software Engineer**
-**SOC Operations • GRC • Secure Systems • Automation**
+**Cybersecurity & Security Engineering**  
+Building security systems, detection workflows, and backend platforms with an engineering-first approach to monitoring, prevention, automation, and compliance.
 
 <br>
 
@@ -21,9 +21,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ritesh_Kumar-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/ritesh-kumar-k78590)
 [![Email](https://img.shields.io/badge/Email-riteshhare@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:riteshhare@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-exploit--haven--desk-6C3FE2?style=flat-square&logo=googlechrome&logoColor=white)](https://exploit-haven-desk.lovable.app)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-RITESH26-212C42?style=flat-square&logo=tryhackme)](https://tryhackme.com/p/RITESH26)
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-Hackglb2025-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/Hackglb2025)
-[![LeetCode](https://img.shields.io/badge/LeetCode-RiteshKumar2512-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/RiteshKumar2512/)
 
 </div>
 
@@ -32,123 +29,134 @@
 ## ⚡ Recruiter Quick View
 
 ```text
-┌──────────────────────────────────────────────────────────────────┐
-│ SECURITY PROFILE                                                 │
-│ SOC • GRC • Security Engineering • Network Security              │
-│                                                                  │
-│ ENGINEERING STACK                                                │
-│ Python • Backend (FastAPI/Flask) • APIs • Docker • AWS • C#      │
-│                                                                  │
-│ EVIDENCE OF WORK                                                 │
-│ Production-grade Projects • Internships • Certifications         │
-│                                                                  │
-│ CURRENT FOCUS                                                    │
-│ Detection Engineering • Security Architecture • Cyber Research   │
-└──────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│ SECURITY ENGINEERING                                         │
+│ SOC • Detection • Endpoint Security • Network Security       │
+│                                                              │
+│ GOVERNANCE                                                   │
+│ ISO/IEC 27001 • Risk • Controls • Compliance                 │
+│                                                              │
+│ ENGINEERING                                                  │
+│ Python • Backend • APIs • Docker • AWS • CI/CD               │
+│                                                              │
+│ EVIDENCE                                                     │
+│ Projects • Labs • Internships • Certifications               │
+│                                                              │
+│ CURRENT FOCUS                                                │
+│ Detection Engineering • Security Research • GRC              │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
 ## 🧭 360° Security & Engineering View
 
-I approach engineering as a holistic discipline where security is built-in, not bolted on. My capability spans six core dimensions:
-
 ```mermaid
 mindmap
   root((Ritesh Kumar))
     SOC & Detection
-      SIEM / Splunk / Wazuh
-      Alert Triage
-      Threat Hunting
+      Splunk
+      Wazuh
+      Wireshark
+      Log Analysis
+      Security Monitoring
     GRC & Compliance
       ISO/IEC 27001
       Risk Assessment
-      GDPR / DPDPA
+      Security Controls
+      Compliance Concepts
     Security Research
-      Endpoint Simulation
-      Malware Behavior
-      DFIR Basics
+      Reverse Engineering
+      Malware Analysis
+      Threat Analysis
+      Security Labs
     Network Security
-      Protocol Analysis
-      VLANs & Routing
-      Access Control Lists
+      Cisco
+      Wireshark
+      Packet Analysis
+      Network Monitoring
     Cloud / DevSecOps
-      AWS Infrastructure
-      Docker Security
-      CI/CD Pipelines
+      AWS
+      Docker
+      CI/CD
+      Infrastructure
     Software Engineering
-      Python / C# / APIs
-      Secure WebSockets
-      Event Pipelines
+      Python
+      Flask / FastAPI
+      React / Node.js
+      APIs
 ```
 
 ---
 
-## 📊 Live Security Dashboard
-
-<!-- DYNAMIC-METRICS:START — Auto-generated metrics from platform APIs -->
-> **GitHub:** 31 public repositories · 5 followers · 6 total stars
-> **LeetCode:** 449 problems solved (Easy: 153 · Medium: 226 · Hard: 70)
->
-> *Automatically updated · Last refresh: 2026-09-25 18:48 UTC*
-<!-- DYNAMIC-METRICS:END -->
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riteshkumar1205&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riteshkumar1205&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="170">
-</div>
-
----
-
-## 📈 Security Maturity / Capability Map
-
-| Capability Area | Maturity | Evidence Base |
-| :--- | :--- | :--- |
-| **SOC & SIEM** | `████████░░` | Projects + Labs + Internship |
-| **GRC** | `███████░░░` | ISO 27001 + Risk + Compliance |
-| **Network Security** | `████████░░` | Cisco + Wireshark + CTF Projects |
-| **Security Engineering** | `████████░░` | DLP + Endpoint Activity Monitor + SecureQR |
-| **Software Engineering** | `████████░░` | Backend Architectures + APIs + Full Stack |
-
----
-
-## 🧾 Proof of Work Layer
+## 🧾 Proof of Work
 
 This profile is evidence-driven. Here is how my capabilities translate into tangible experience:
 
 <details>
-<summary><b>SOC & Security Monitoring</b></summary>
+<summary><b>SOC & Detection</b></summary>
 
 - **Tools**: Splunk, Wazuh, Wireshark, Windows Event Viewer
-- **Skills**: Log Analysis, Event Correlation, Alert Triage
-- **Evidence**: Production-grade implementation in **DLP Intelligence** & hands-on lab projects.
+- **Projects**: **DLP Intelligence Platform**
+- **Experience**: Cybersecurity Internship (Cisco Networking Academy)
+- **Labs**: Detection engineering configurations, endpoint alert generation
 </details>
 
 <details>
 <summary><b>GRC & Compliance</b></summary>
 
-- **Tools/Frameworks**: ISO/IEC 27001, GDPR, DPDPA
-- **Skills**: Gap Analysis, Security Controls, Risk Assessment
-- **Evidence**: Project-based risk scoring engines and compliance-oriented documentation.
+- **Standards**: ISO/IEC 27001, GDPR, DPDPA
+- **Projects**: Project-based risk scoring engines
+- **Work**: Compliance documentation and gap analysis frameworks
 </details>
 
 <details>
 <summary><b>Security Engineering</b></summary>
 
+- **Projects**: **LabAgent**, **SecureQR-COE**, **Endpoint Activity Monitor**
 - **Implementation**: Cryptographic Device Identity, Policy Enforcement, Real-time event pipelines.
-- **Evidence**: **LabAgent** (ECDSA P-256 identity + DPAPI key protection) & **SecureQR-COE**.
 </details>
 
 <details>
 <summary><b>Network Security</b></summary>
 
-- **Protocols**: TCP/IP, DNS, HTTP/HTTPS, ARP, ICMP, UDP
-- **Evidence**: Cisco Networking Academy internship (VLANs, static routing, ACLs) and **WiFiScanner-Sniffer** project.
+- **Tools**: Cisco Packet Tracer, Wireshark
+- **Projects**: **WiFiScanner-Sniffer**
+- **Experience**: Cisco Networking Academy internship (VLANs, static routing, ACLs)
+</details>
+
+<details>
+<summary><b>Software Engineering</b></summary>
+
+- **Stack**: Python, C#, FastAPI, Docker, WebSockets
+- **Projects**: Backend APIs for **LabAgent**, Full-stack implementation for **SecureQR-COE**
 </details>
 
 ---
 
-## 🏗️ Architecture Gallery
+## 🚀 Flagship Projects
+
+### 1. Enterprise DLP Intelligence Platform
+**Focus:** Data Loss Prevention & Security Monitoring
+**Problem:** Need for a centralized system to monitor endpoint exfiltration attempts across multiple vectors.
+**Architecture:** Real-time event pipelines analyzing File, Process, USB, and Clipboard integrity.
+**Security Relevance:** Direct application of SOC monitoring, endpoint telemetry, and detection engineering.
+**Tech Stack:** Python, WebSockets, Detection Engines.
+**Implementation:** Developed local monitors that stream events to a centralized risk engine.
+**Repository:** [data-loss-prevention-system](https://github.com/Riteshkumar1205/data-loss-prevention-system)
+
+### 2. LabAgent Endpoint Manager
+**Focus:** Security Engineering & Identity
+**Problem:** Insecure management of lab endpoints and unauthorized access.
+**Architecture:** Outbound WSS connections enforcing ECDSA P-256 identities.
+**Security Relevance:** Applied cryptographic identity, DPAPI key protection, and secure communications.
+**Tech Stack:** C# .NET 8, FastAPI, PostgreSQL, Redis.
+**Implementation:** Built the Windows agent and central management server.
+**Repository:** [LabAgent](https://github.com/Riteshkumar1205/LabAgent)
+
+---
+
+## 🏗️ Architecture & Systems Showcase
 
 <details>
 <summary><b>View Architecture: LabAgent (Endpoint Management)</b></summary>
@@ -170,7 +178,6 @@ graph TB
     subgraph Lab["Windows Lab PCs"]
         Agent1["LabAgent C# .NET 8"]
         Agent2["LabAgent C# .NET 8"]
-        Agent3["LabAgent C# .NET 8"]
     end
 
     UI -->|HTTPS/WSS| API
@@ -181,88 +188,120 @@ graph TB
 
     Agent1 -->|"Outbound HTTPS + WSS"| WS_Hub
     Agent2 -->|"Outbound HTTPS + WSS"| WS_Hub
-    Agent3 -->|"Outbound HTTPS + WSS"| WS_Hub
-
     Agent1 -.->|"ECDSA P-256 Identity"| Auth
     Agent2 -.->|"ECDSA P-256 Identity"| Auth
-    Agent3 -.->|"ECDSA P-256 Identity"| Auth
 ```
 </details>
 
 <details>
-<summary><b>View Architecture: DLP Intelligence</b></summary>
+<summary><b>View Architecture: Enterprise DLP Intelligence</b></summary>
 
 ```mermaid
 graph LR
     subgraph Monitors["Endpoint Monitors"]
         FM["File Monitor"]
         PM["Process Monitor"]
-        CM["Clipboard Monitor"]
         UM["USB Monitor"]
-        NM["Network Monitor"]
-        DM["Device Monitor"]
-        RM["Registry Monitor"]
-        IM["Integrity Monitor"]
     end
 
     subgraph Pipeline["Decision Pipeline"]
         DE["Detection Engine"]
         CE["Classification Engine"]
         RE["Risk Engine"]
-        PE["Policy Engine"]
         EE["Enforcement"]
     end
 
     subgraph Output["Output"]
-        FL["File Log"]
-        CLI["CLI Output"]
         WSS["WebSocket Stream"]
         DASH["Dashboard"]
     end
 
-    FM & PM & CM & UM & NM & DM & RM & IM --> DE
-    DE --> CE --> RE --> PE --> EE
-    EE --> FL & CLI & WSS
+    FM & PM & UM --> DE
+    DE --> CE --> RE --> EE
+    EE --> WSS
     WSS --> DASH
 ```
 </details>
 
 ---
 
-## 📅 Security Research Timeline
+## ⚙️ Security Engineering Story
 
 ```text
-2025
-│
-├── Cybersecurity Internship (Cisco Networking Academy x AICTE)
-├── Software & Security Internship (InternPro)
-├── Networking / SOC Labs
-├── DLP / Endpoint Security Platform Development
-│
-2026
-│
-├── SecureQR / LabAgent Architectures
-├── Security Research (Endpoint Activity Simulation)
-├── GRC / ISO 27001 Deep Dives
-└── Advanced Detection Engineering
+MONITOR    →   Endpoint logs, network traffic, system events
+   ↓
+DETECT     →   Identify anomalous behavior via heuristics
+   ↓
+ANALYZE    →   Correlate alerts against known IOCs
+   ↓
+DECIDE     →   Calculate risk scores and compliance gaps
+   ↓
+ENFORCE    →   Trigger automated policies
+   ↓
+LOG        →   Maintain immutable audit trails
+   ↓
+IMPROVE    →   Refine detection rules based on incident data
 ```
 
 ---
 
-## 🛠️ Recently Updated
+## 🛠️ Technology Matrix
+
+| Security | Languages | Backend | Frontend | Cloud / DevOps | Data / Infra |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| Splunk | Python | FastAPI | React | AWS | PostgreSQL |
+| Wazuh | JavaScript | Flask | Vite | Docker | MySQL |
+| Wireshark | TypeScript | Node.js | Tailwind | GitHub Actions | SQLite |
+| Burp Suite | C/C++ | Express | | Linux | REST APIs |
+| Nmap | Bash | | | | WebSockets |
+
+*(Note: Matrix represents working knowledge and project-based experience)*
+
+---
+
+## 📊 Live Metrics Dashboard
+
+<!-- DYNAMIC-METRICS:START — Auto-generated metrics from platform APIs -->
+> **GitHub:** 31 public repositories · 5 followers · 6 total stars
+> **LeetCode:** 449 problems solved (Easy: 153 · Medium: 226 · Hard: 70)
+>
+> *Automatically updated · Last refresh: 2026-09-25 18:48 UTC*
+<!-- DYNAMIC-METRICS:END -->
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Riteshkumar1205&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riteshkumar1205&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Top Languages" height="170">
+</div>
+
+---
+
+## 🔄 Recently Updated
 
 <!-- DYNAMIC-RECENT:START -->
+- **[Profile](https://github.com/Riteshkumar1205/Profile)** — *Updated: September 25, 2026*
 - **[dsa-practice-2025](https://github.com/Riteshkumar1205/dsa-practice-2025)** — *Updated: September 25, 2026*
 - **[SecureQR-COE](https://github.com/Riteshkumar1205/SecureQR-COE)** — *Updated: September 03, 2026*
 - **[LabAgent](https://github.com/Riteshkumar1205/LabAgent)** — *Updated: August 31, 2026*
-- **[QR](https://github.com/Riteshkumar1205/QR)** — *Updated: August 15, 2026*
 <!-- DYNAMIC-RECENT:END -->
 
 ---
 
-## 🏆 Certifications & Achievements
+## 💼 Experience
 
-- **Best Innovation in Prototype Designing** — MEDHA 2025, IIT Bombay BETiC (SmileCare Dental Health Analysis)
+**Cybersecurity Internship**  
+*Cisco Networking Academy (x AICTE)*  
+**Domain:** Network Security & SOC Foundations  
+**Responsibilities:** Hands-on configuration of VLANs, static routing, and Access Control Lists. Practical packet analysis and network monitoring.
+
+**Software & Security Internship**  
+*InternPro*  
+**Domain:** Software Engineering & Automation  
+**Responsibilities:** Developing backend scripts and automation tooling using Python.
+
+---
+
+## 🏆 Certifications
+
 - **Cybersecurity Essentials & Foundations** — Cisco Networking Academy
 - **Networking Basics** — Cisco Networking Academy
 - **Cybersecurity Fundamentals** — Palo Alto Networks
@@ -274,16 +313,23 @@ graph LR
 
 ---
 
+## 🎓 Education
+
+**B.Tech in Computer Science & Artificial Intelligence**  
+G. L. Bajaj Institute of Technology & Management, Greater Noida
+
+---
+
 ## Connect & Collaborate
 
 <div align="center">
 
-**Interested in security engineering, SOC operations, or backend systems?**
+**Interested in security engineering, detection engineering, GRC, or secure systems? Connect with me.**
 
-[![GitHub](https://img.shields.io/badge/Explore_Projects-181717?style=for-the-badge&logo=github)](https://github.com/Riteshkumar1205?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-kumar-k78590)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-6C3FE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://exploit-haven-desk.lovable.app)
-[![Email](https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshhare@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Riteshkumar1205?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ritesh-kumar-k78590)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6C3FE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://exploit-haven-desk.lovable.app)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riteshhare@gmail.com)
 
 </div>
 
